@@ -25,27 +25,17 @@ public:
 
         ListNode* prevNode = nullptr;
         ListNode* currNode = head;
-        ListNode* nextNode = nullptr;
-
         ListNode* newHead = nullptr;
 
         while (currNode != nullptr) {
-            nextNode = currNode->next;
+            ListNode* nextNode = currNode->next;
 
             if (st.count(currNode->val)) {
-                // detaching and deleting currNode 
-                currNode->next = nullptr;
-
                 if (prevNode) prevNode->next = nextNode;
-                // delete currNode;
-                
-                // moving currNode pointer ahead 
                 currNode = nextNode;
             }
             else {
-                if (newHead == nullptr) newHead = currNode;
-                
-                // nothing to be deleted, move pointers ahead 
+                if (newHead == nullptr) newHead = currNode; 
                 prevNode = currNode;
                 currNode = nextNode;
             }
