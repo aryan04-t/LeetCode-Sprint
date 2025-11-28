@@ -13,7 +13,7 @@ public:
         int n = nums.size();
         long long maxiSum = LLONG_MIN;
 
-        vector<long long> remainderMinVal(n, LLONG_MAX);
+        vector<long long> remainderMinVal(k, LLONG_MAX);
         remainderMinVal[0] = 0;
 
         long long runningSum = 0;
@@ -37,4 +37,4 @@ public:
 
 
 // T.C. = O(n) 
-// S.C. = O(n) 
+// S.C. = O(k) 
