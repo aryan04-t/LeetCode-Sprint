@@ -30,8 +30,8 @@ public:
             
             while (left >= 0) {
                 long long excludingSum = (left - 1) >= 0 ? prefixSum[left-1] : 0;
-                long long currSum = prefixSum[right] - excludingSum;
-                maxiSum = max(currSum, maxiSum);
+                long long subArraySum = prefixSum[right] - excludingSum;
+                maxiSum = max(subArraySum, maxiSum);
                 left -= k;
             }
         }
