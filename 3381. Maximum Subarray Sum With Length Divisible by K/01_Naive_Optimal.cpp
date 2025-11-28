@@ -45,5 +45,5 @@ public:
 };
 
 
-// T.C. = O((n/k) * n) = [Best Case = O(n) when k = n, Worst Case = O(n^2) when k = 1] 
+// T.C. = O((n/k) * n) = O(n^2/k) = [Best Case = O(n) when k = n, Worst Case = O(n^2) when k = 1] 
 // S.C. = O(1) 
