@@ -64,7 +64,7 @@ TAGS: [RATING, DIFFICULTY, APPROACH, ERRORS, STL, CONCEPTS]
 - **DIFFICULTY**: `EASY` | `MEDIUM` | `HARD`
 - **APPROACH**: `NAIVE` | `OPTIMAL` | `MOST OPTIMAL`
 - **ERRORS**: `TLE ERROR` | `MLE ERROR` | (empty if none)
-- **STL**: `STL` | (empty if not used)
+- **STL**: `STL` | (Empty if no uncommon stl function used)
 - **CONCEPTS**: Problem-specific tags like `ARRAY`, `STRING`, `MAXIMIZING SUM`, `HASH MAP`, `HASH SET`, `SLIDING WINDOW`, `MODULAR ARITHMETIC`, `INTUITION INVERSION`, `DIVISION`, `SUBARRAY`, `SUBSTRING`, `REVERSING`, `BINARY STRING`, `BINARY NUMBER`, `DECIMAL NUMBER`, `DECIMAL STRING`, `BIT MANIPULATION`, `TREE`, `GRAPH`, `DFS`, `BFS`, `DP`, `PERIMETER`, `AREA`, etc.
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
