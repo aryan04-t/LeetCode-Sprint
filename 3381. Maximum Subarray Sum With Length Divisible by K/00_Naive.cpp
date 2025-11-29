@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k 
 
 
+// TAGS: [RATING: 1943], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SUBARRAY], [SIMULATION] 
+
+
 // This gives TLE 
 
 

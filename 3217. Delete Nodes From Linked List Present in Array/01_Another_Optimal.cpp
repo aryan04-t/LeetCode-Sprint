@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array
 
 
+// TAGS: [RATING: 1341], [MEDIUM], [OPTIMAL], [LINKED LIST], [HASH SET]
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

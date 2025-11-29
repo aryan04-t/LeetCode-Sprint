@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k 
 
 
+// TAGS: [RATING: 1943], [MEDIUM], [MOST OPTIMAL], [ARRAY], [SUBARRAY], [PREFIX SUM], [MODULAR ARITHMETIC], [DIVISION], [MAXIMIZING SUM], [INTUITION INVERSION], [HASH MAP]
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

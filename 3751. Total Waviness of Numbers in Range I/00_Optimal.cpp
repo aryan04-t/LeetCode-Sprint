@@ -2,6 +2,8 @@
 // https://leetcode.com/problems/total-waviness-of-numbers-in-range-i
 
 
+// TAGS: [RATING: 1404], [MEDIUM], [OPTIMAL], [MATH], [STRING], [DECIMAL NUMBER], [DECIMAL STRING] 
+
 
 #include<bits/stdc++.h>
 using namespace std;

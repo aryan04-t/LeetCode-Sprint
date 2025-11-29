@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array
 
 
+// TAGS: [RATING: 1341], [MEDIUM], [NAIVE], [TLE ERROR], [LINKED LIST] 
+
+
 // This is navie approach, gives TLE error as expected, but I just wanted to implement it, nothing else 
 
 

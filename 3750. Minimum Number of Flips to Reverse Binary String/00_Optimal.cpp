@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string 
 
 
+// TAGS: [RATING: 1288], [EASY], [OPTIMAL], [STRING], [BINARY NUMBER], [BINARY STRING], [REVERSING], [MATH] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

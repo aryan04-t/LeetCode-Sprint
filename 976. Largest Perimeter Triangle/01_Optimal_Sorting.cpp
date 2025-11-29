@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/largest-perimeter-triangle 
 
 
+// TAGS: [RATING: 1340], [EASY], [OPTIMAL], [ARRAY], [TRIANGLE], [SORTING], [MATH], [GREEDY] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i 
 
 
+// TAGS: [RATING: 1247], [MEDIUM], [OPTIMAL], [MATH], [STRING], [DECIMAL NUMBER], [DECIMAL STRING], [REVERSING] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

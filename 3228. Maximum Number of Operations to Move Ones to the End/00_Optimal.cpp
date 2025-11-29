@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end
 
 
+// TAGS: [RATING: 1593], [MEDIUM], [OPTIMAL], [BINARY STRING], [COUNTING], [GREEDY] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
