@@ -22,7 +22,7 @@ public:
             
             if ((seen & bit) == 0) {   // checking if that bit is not set 
                 seen |= bit;           // set the bit 
-                ans++;                 // count the unique char occurence 
+                ans++;                 // count the unique char  
                 if (ans == 26) break;  // maximum achievable ans 
             } 
         }
