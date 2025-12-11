@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1340], [EASY], [NAIVE], [TLE ERROR], [ARRAY], [TRIANGLE], [PERIMETER], [MATH] 
 
 
-// Give TLE Error
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

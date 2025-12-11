@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1675], [MEDIUM], [NAIVE], [TLE ERROR], [SUBARRAY], [SUM], [MODULAR ARITHMETIC] 
 
 
-// Give TLE 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

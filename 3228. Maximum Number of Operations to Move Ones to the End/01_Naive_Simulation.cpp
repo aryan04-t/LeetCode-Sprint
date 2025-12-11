@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1593], [MEDIUM], [NAIVE], [TLE ERROR], [BINARY STRING], [SIMULATION]
 
 
-// Naive Approach, will give TLE error
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

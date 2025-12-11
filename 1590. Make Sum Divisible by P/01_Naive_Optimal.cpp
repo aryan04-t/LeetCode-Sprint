@@ -5,9 +5,6 @@
 // TAGS: [RATING: 2038], [MEDIUM], [NAIVE OPTIMAL], [TLE ERROR], [SUBARRAY], [PREFIX SUM], [MODULAR ARITHMETIC], [DIVISIBILITY], [SLIDING WINDOW] 
 
 
-// Gives TLE Error 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

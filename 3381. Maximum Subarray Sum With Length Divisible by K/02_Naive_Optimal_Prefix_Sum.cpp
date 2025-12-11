@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1943], [MEDIUM], [OPTIMAL], [TLE ERROR], [ARRAY], [SUBARRAY], [PREFIX SUM], [SLIDING WINDOW] 
 
 
-// This gives TLE 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

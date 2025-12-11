@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1943], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SUBARRAY], [SIMULATION] 
 
 
-// This gives TLE 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

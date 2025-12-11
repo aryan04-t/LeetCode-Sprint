@@ -5,9 +5,6 @@
 // TAGS: [RATING: 1341], [MEDIUM], [NAIVE], [TLE ERROR], [LINKED LIST] 
 
 
-// This is navie approach, gives TLE error as expected, but I just wanted to implement it, nothing else 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 
