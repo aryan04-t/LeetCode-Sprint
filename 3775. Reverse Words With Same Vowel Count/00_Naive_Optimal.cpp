@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/reverse-words-with-same-vowel-count 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [STRING], [SUBSTRING], [HASH SET], [REVERSING], [COUNTING] 
+// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [STRING], [SUBSTRING], [HASH SET], [REVERSING], [COUNTING], [SIMULATION]
 
 
 #include<bits/stdc++.h>
@@ -57,4 +57,4 @@ public:
 
 
 // T.C. = O(n) 
-// S.C. = O(n) -> [This is total space complexity, not auxiliary space complexity of algo] 
+// S.C. = O(n) 
