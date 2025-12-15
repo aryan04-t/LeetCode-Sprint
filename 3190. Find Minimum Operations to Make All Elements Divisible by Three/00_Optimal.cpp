@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
 
 
-// TAGS: [RATING: 1139], [EASY], [OPTIMAL], [ARRAY], [MODULAR ARITHMETIC], [MATH] 
+// TAGS: [RATING: 1139], [EASY], [OPTIMAL], [ARRAY], [MODULAR ARITHMETIC], [MATH], [MINIMIZING] 
 
 
 #include<bits/stdc++.h>

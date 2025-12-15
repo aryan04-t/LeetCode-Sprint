@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k 
 
 
-// Tags: [RATING: 1228], [EASY], [OPTIMAL], [STL], [ARRAY], [MATH], [MODULAR ARITHMETIC] 
+// Tags: [RATING: 1228], [EASY], [OPTIMAL], [STL], [ARRAY], [MATH], [MODULAR ARITHMETIC], [MINIMIZING] 
 
 
 #include<bits/stdc++.h>

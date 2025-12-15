@@ -74,8 +74,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
         - `ARRAY` 
         - `STRING` 
-        - `MAXIMIZING SUM` 
-        - `MAXIMIZING LENGTH` 
+        - `MAXIMIZING` 
+        - `MINIMIZING` 
         - `HASH MAP` 
         - `HASH SET` 
         - `SLIDING WINDOW` 

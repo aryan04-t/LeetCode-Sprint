@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length 
 
 
-// TAGS: [RATING: 1663], [MEDIUM], [NAIVE OPTIMAL], [TLE ERROR], [ARRAY], [SUBARRAY], [PREFIX SUM], [HASH MAP], [BIT MANIPULATION], [MAXIMIZING LENGTH], [EVEN AND ODD] 
+// TAGS: [RATING: 1663], [MEDIUM], [NAIVE OPTIMAL], [TLE ERROR], [ARRAY], [SUBARRAY], [PREFIX SUM], [HASH MAP], [BIT MANIPULATION], [MAXIMIZING], [EVEN AND ODD] 
 
 
 #include<bits/stdc++.h>

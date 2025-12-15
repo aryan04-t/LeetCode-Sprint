@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL], [PALINDROME], [BINARY NUMBER], [BINARY SEARCH], [STATIC VARIABLE], [PRE-COMPUTATION]
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL], [PALINDROME], [BINARY NUMBER], [BINARY SEARCH], [STATIC VARIABLE], [PRE-COMPUTATION, [MINIMIZING] 
 
 
 #include<bits/stdc++.h>

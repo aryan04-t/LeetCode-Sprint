@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs 
 
 
-// TAGS: [RATING: 1668], [MEDIUM], [OPTIMAL], [STL], [HASH MAP], [REVERSING], [DECIMAL STRING], [DECIMAL NUMBER] 
+// TAGS: [RATING: 1668], [MEDIUM], [OPTIMAL], [STL], [HASH MAP], [REVERSING], [DECIMAL STRING], [DECIMAL NUMBER], [MINIMIZING] 
 
 
 #include<bits/stdc++.h>
