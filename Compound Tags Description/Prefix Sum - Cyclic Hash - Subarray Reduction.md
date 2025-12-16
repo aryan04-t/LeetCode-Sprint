@@ -98,12 +98,12 @@ At each position `i`:
 
 ## 🚀 Practice Problems
 
-- 560. Subarray Sum Equals K | [Question Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/560.%20Subarray%20Sum%20Equals%20K)
+560. Subarray Sum Equals K | [Question Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/560.%20Subarray%20Sum%20Equals%20K)
 
-- 974. Subarray Sums Divisible by K | [Question Link](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/974.%20Subarray%20Sums%20Divisible%20by%20K)
+974. Subarray Sums Divisible by K | [Question Link](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/974.%20Subarray%20Sums%20Divisible%20by%20K)
 
-- 1590. Make Sum Divisible by P | [Question Link](https://leetcode.com/problems/make-sum-divisible-by-p/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/1590.%20Make%20Sum%20Divisible%20by%20P)
+1590. Make Sum Divisible by P | [Question Link](https://leetcode.com/problems/make-sum-divisible-by-p/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/1590.%20Make%20Sum%20Divisible%20by%20P)
 
-- 3381. Maximum Subarray Sum With Length Divisible by K | [Question Link](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K)
+3381. Maximum Subarray Sum With Length Divisible by K | [Question Link](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K)
 
-- 3755. Find Maximum Balanced XOR Subarray Length | [Question Link](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length)
+3755. Find Maximum Balanced XOR Subarray Length | [Question Link](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length)

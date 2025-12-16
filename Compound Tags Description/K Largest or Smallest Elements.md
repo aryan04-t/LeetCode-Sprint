@@ -118,10 +118,10 @@ for(int num : nums) {
 
 ## 🚀 Practice Problems
 
-- 3745. Maximize Expression of Three Elements | [Question Link](https://leetcode.com/problems/maximize-expression-of-three-elements) | [My Solutions](https://github.com/aryan04-t/LeetCode-Jog/tree/master/12_Heaps/008_3745.%20Maximize%20Expression%20of%20Three%20Elements) 
+3745. Maximize Expression of Three Elements | [Question Link](https://leetcode.com/problems/maximize-expression-of-three-elements) | [My Solutions](https://github.com/aryan04-t/LeetCode-Jog/tree/master/12_Heaps/008_3745.%20Maximize%20Expression%20of%20Three%20Elements) 
 
-- 703. Kth Largest Element in a Stream | [Question Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Jog/tree/master/12_Heaps/005_703.%20Kth%20Largest%20Element%20in%20a%20Stream) 
+703. Kth Largest Element in a Stream | [Question Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [My Solutions](https://github.com/aryan04-t/LeetCode-Jog/tree/master/12_Heaps/005_703.%20Kth%20Largest%20Element%20in%20a%20Stream) 
 
-- 3318. Find X-Sum of All K-Long Subarrays I | [Question Link](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I) 
+3318. Find X-Sum of All K-Long Subarrays I | [Question Link](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I) 
 
-- 3774. Absolute Difference Between Maximum and Minimum K Elements | [Question Link](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements) 
+3774. Absolute Difference Between Maximum and Minimum K Elements | [Question Link](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements) 
