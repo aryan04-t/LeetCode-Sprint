@@ -122,6 +122,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `GREEDY`
         - `CIRCULAR ARRAY`
         - `TWO POINTER`
+        - `PAIR SORTING`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
