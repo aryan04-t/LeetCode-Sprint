@@ -54,4 +54,4 @@ public:
 
 
 // T.C. = O(2^n) 
-// S.C. = uniquePalindromes.size() + recursive stack + subseq.length() = O(26^2) + O(n) + (n) = O(max(26^2, n)) 
+// S.C. = uniquePalindromes.size() + recursive stack + subseq.length() = O(26^2) + O(n) + (n) = O(n) 
