@@ -127,6 +127,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `PAIR SORTING`
         - `LINEAR RESORTING`
         - `RECURSION`
+        - `CHARS TO STRING C++`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
