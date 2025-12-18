@@ -72,118 +72,124 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 - **CONCEPTS, Data Structures & PATTERNS**: Problem-specific tags 
 
     - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
-        - `ARRAY` 
+        - `ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/006_1672.%20Richest%20Customer%20Wealth/00_Optimal_Approach.cpp)
 
-        - `STRING` 
+        - `STRING` | [Example Code](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
 
-        - `MAXIMIZING` 
+        - `MAXIMIZING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/03_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
-        - `MINIMIZING` 
+        - `MINIMIZING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/02_Most_Optimal_Hash_Map_Decimal_Number_Reversing_Approach.cpp) 
 
-        - `HASH MAP` 
+        - `HASH MAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/049_2053.%20Kth%20Distinct%20String%20in%20an%20Array/00_My_Optimal_Unordered_Map_Approach.cpp)
 
-        - `HASH SET` 
+        - `HASH SET` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/055_3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K/00_My_Optimal_Unordered_Set_Iterative_Approach.cpp) 
 
-        - `SLIDING WINDOW` 
+        - `LINKED LIST` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/01_Another_Optimal.cpp) 
 
-        - `MODULAR ARITHMETIC`
+        - `SLIDING WINDOW` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/13_Bit%20Manipulation/000_3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II/02_My_Optimal_Sliding_Window_and_Bit_Manipulation_Approach.cpp) 
 
-        - `INTUITION INVERSION` 
+        - `MODULAR ARITHMETIC` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/00_Optimal.cpp) 
+
+        - `INTUITION INVERSION` | [Introduction to Intuition Inversion](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/30_Inverting%20Intuitions%20-%20A%20Problem%20Solving%20Framework.md)
 
         - `DIVISION`
 
-        - `SUBARRAY` 
+        - `SUBARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp) 
 
-        - `SUBSTRING`
+        - `SUBSTRING` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/02_Strings/011_1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/00_Simplest_and_Most_Efficient_Sliding_Window_Approach.cpp) 
 
-        - `REVERSING` 
+        - `4 DIRECTION ITERATIVE TRAVERSAL` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/066_3694.%20Distinct%20Points%20Reachable%20After%20Substring%20Removal/01_My_Optimal_Sliding_Window_and_Hash_Set_Approach.cpp)
 
-        - `BINARY SEARCH`
+        - `BINARY SEARCH` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3759.%20Count%20Elements%20With%20at%20Least%20K%20Greater%20Values/02_Most_Optimal_Sorting_and_Binary_Search_Approach.cpp) 
 
-        - `PALINDROME`
+        - `PALINDROME` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3766.%20Minimum%20Operations%20to%20Make%20Binary%20Palindrome/00_Naive.cpp) 
 
-        - `BINARY STRING` 
+        - `BINARY STRING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 
 
-        - `BINARY NUMBER` 
+        - `BINARY NUMBER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3750.%20Minimum%20Number%20of%20Flips%20to%20Reverse%20Binary%20String/01_Optimal_Another.cpp)
 
-        - `DECIMAL NUMBER`
+        - `DECIMAL NUMBER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/01_Most_Optimal.cpp)
 
-        - `DECIMAL STRING`
+        - `DECIMAL STRING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/00_Optimal.cpp) 
 
-        - `BIT MANIPULATION` 
+        - `BIT MANIPULATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp) 
 
-        - `TREE` 
+        - `TREE` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/006_1302.%20Deepest%20Leaves%20Sum/00_My_Optimal_DFS_Approach.cpp) 
 
-        - `GRAPH` 
+        - `GRAPH` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/11_Graphs/000_997.%20Find%20the%20Town%20Judge/00_Optimal_Hash_Table_and_Graph_Approach.cpp) 
 
-        - `DFS`
+        - `DFS` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/002_543.%20Diameter%20of%20Binary%20Tree/00_Optimal_Approach.cpp) 
 
-        - `BFS` 
+        - `BFS` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/009_102.%20Binary%20Tree%20Level%20Order%20Traversal/00_My_Optimal_BFS_Approach.cpp) 
 
-        - `DP` 
+        - `DP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/07_Recursion%2C%20Backtracking%20and%20Dynamic%20Programming/001_509.%20Fibonacci%20Number/05_Recursion_plus_Memoization_Approach.cpp) 
 
-        - `PERIMETER` 
+        - `PERIMETER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/976.%20Largest%20Perimeter%20Triangle/00_Naive.cpp) 
 
-        - `AREA` 
+        - `AREA` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/03_Maths/005_812.%20Largest%20Triangle%20Area/00_Optimal_Approach_Herons_Formula.cpp)
 
-        - `DIVISIBILITY` 
+        - `DIVISIBILITY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/01_Naive_Optimal.cpp) 
 
-        - `PREFIX SUM` 
+        - `PREFIX SUM` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/01_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
-        - `STATIC VARIABLE` 
+        - `STATIC VARIABLE` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3766.%20Minimum%20Operations%20to%20Make%20Binary%20Palindrome/01_Optimal_Precomputation_And_Binary_Search_Approach.cpp) 
 
-        - `CUSTOM SORT` 
+        - `CUSTOM SORT` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp) 
 
-        - `SORTING` 
+        - `SORTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3759.%20Count%20Elements%20With%20at%20Least%20K%20Greater%20Values/00_Optimal_Sorting_Approach.cpp)
 
-        - `CUSTOM HASHING` 
+        - `CUSTOM HASHING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/02_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
-        - `PRE-COMPUTATION` 
+        - `PRE-COMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3766.%20Minimum%20Operations%20to%20Make%20Binary%20Palindrome/01_Optimal_Precomputation_And_Binary_Search_Approach.cpp) 
 
-        - `HASH VECTOR` 
+        - `HASH VECTOR` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3760.%20Maximum%20Substrings%20With%20Distinct%20Start/02_Naive_Optimal_Simulation_Approach.cpp) 
 
-        - `SIMULATION` 
+        - `SIMULATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp)
 
-        - `BIT MASKING` 
+        - `BIT MASKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
-        - `REVERSING` 
+        - `REVERSING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3750.%20Minimum%20Number%20of%20Flips%20to%20Reverse%20Binary%20String/00_Optimal.cpp) 
 
-        - `EVEN AND ODD` 
+        - `EVEN AND ODD` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/00_Naive.cpp)
 
         - `EVEN` 
 
         - `ODD` 
 
-        - `DIFFERENCE TRACKING` 
+        - `DIFFERENCE TRACKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/02_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp)
 
-        - `NEGATIVE REMAINDER`
+        - `NEGATIVE REMAINDER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/974.%20Subarray%20Sums%20Divisible%20by%20K/01_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp)
 
-        - `SUM`
+        - `SUM` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/00_Naive.cpp) 
 
-        - `HEAP`
+        - `HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/12_Heaps/003_506.%20Relative%20Ranks/01_My_Optimal_Max_Heap_Approach_Using_STL_Pair.cpp) 
 
-        - `MIN HEAP`
+        - `MIN HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/12_Heaps/005_703.%20Kth%20Largest%20Element%20in%20a%20Stream/00_My_Optimal_Min_Heap_Approach.cpp) 
 
-        - `MAX HEAP`
+        - `MAX HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
 
-        - `C++ STRING STREAM`
+        - `C++ STRING STREAM` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) | [My Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes)
 
-        - `COUNTING`
+        - `COUNTING` 
 
-        - `GREEDY`
+        - `GREEDY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 
 
-        - `CIRCULAR ARRAY`
+        - `CIRCULAR ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/02_Most_Optimal_Greedy_Approach.cpp)
 
-        - `TWO POINTER`
+        - `TWO POINTER` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/020_26.%20Remove%20Duplicates%20from%20Sorted%20Array/01_Optimal_Two_Pointer_Approach.cpp) 
 
-        - `PAIR SORTING`
+        - `PAIR SORTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/01_Naive_Optimal_Hash_Map_Sliding_Window_and_Sorting_Approach.cpp) 
 
-        - `LINEAR RESORTING`
+        - `LINEAR RESORTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/02_Optimal_Hash_Map_Sliding_Window_and_Linear_Resorting_Approach.cpp)
 
-        - `RECURSION`
+        - `RECURSION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
 
-        - `CHARS TO STRING C++`
+        - `CHARS TO STRING C++` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/01_Naive_Iterative_Approach.cpp)
+
+        - `LAST OCCURRENCE PRECOMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
         
+        - `FIRST OCCURRENCE PRECOMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
+
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
