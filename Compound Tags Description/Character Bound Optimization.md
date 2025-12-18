@@ -11,7 +11,7 @@ Naive **O(n^2)** Solution - [Code Link](https://github.com/aryan04-t/LeetCode-Sp
 
 Optimal **O(n)** Solution `(Uses Character-Bound Pattern)` - [Code Link](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp)  
 
-For this question you can also checkout my all approaches `(Naive -> Optimal)` here - [My All Approaches Codes](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)  
+For this question you can also checkout my all approaches `(Naive → Optimal)` here - [My All Approaches Codes](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences)  
 
 
 ## 💡 Why Use It?
@@ -82,4 +82,4 @@ The constant 26 transforms complexity: O(n^2) → O(n), etc.
 
 ## 👀 You Can Also Checkout: 
 
-- Ways of Tracking Seen Characters of an Alphabet in C++ | [Article Link](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/38_Ways%20of%20Tracking%20Seen%20Characters%20of%20an%20Alphabet%20in%20C%2B%2B.md) 
+- Ways of Tracking Seen Characters of an Alphabet in C++ → Hash Map, Hash Set, Hash Vector, Bit Masking | [Article Link](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/38_Ways%20of%20Tracking%20Seen%20Characters%20of%20an%20Alphabet%20in%20C%2B%2B.md) 

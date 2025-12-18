@@ -73,18 +73,16 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
         - `ARRAY` 
-        
+
         - `STRING` 
 
         - `MAXIMIZING` 
 
         - `MINIMIZING` 
 
-
         - `HASH MAP` 
 
         - `HASH SET` 
-
 
         - `SLIDING WINDOW` 
 
@@ -185,6 +183,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `RECURSION`
 
         - `CHARS TO STRING C++`
+        
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
