@@ -200,9 +200,13 @@
 
   - `llabs()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/00_Naive_Greedy_Approach.cpp) 
 
+  - `ceil()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3779.%20Minimum%20Number%20of%20Operations%20to%20Have%20Distinct%20Elements/02_Most_Optimal.cpp)
+
 ### 9. Data Types
 
   - `long long` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/00_Optimal.cpp)
+
+  - `double` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3779.%20Minimum%20Number%20of%20Operations%20to%20Have%20Distinct%20Elements/02_Most_Optimal.cpp) 
 
 ### 10. Advanced Features
 
