@@ -125,3 +125,5 @@ for(int num : nums) {
 3318. Find X-Sum of All K-Long Subarrays I | [Question Link](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I) 
 
 3774. Absolute Difference Between Maximum and Minimum K Elements | [Question Link](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements) 
+
+3780. Maximum Sum of Three Numbers Divisible by Three | [Question Link](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/tree/master/3780.%20Maximum%20Sum%20of%20Three%20Numbers%20Divisible%20by%20Three) 
