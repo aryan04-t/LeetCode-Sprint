@@ -50,7 +50,7 @@ public:
 };
 
 
-// T.C. = O(n) 
+// T.C. = O(n) + O(n) = O(2n) = O(n) 
 // S.C. = O(m) 
 
 // m = total number of unique elements in nums 
