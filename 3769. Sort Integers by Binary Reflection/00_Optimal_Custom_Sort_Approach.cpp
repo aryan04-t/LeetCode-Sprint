@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/sort-integers-by-binary-reflection/
 
 
-// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [STL], [ARRAY], [SORTING], [CUSTOM SORT], [BIT MANIPULATION] 
+// TAGS: [RATING: 1363], [EASY], [OPTIMAL], [STL], [ARRAY], [SORTING], [CUSTOM SORT], [BIT MANIPULATION] 
 
 
 #include<bits/stdc++.h> 

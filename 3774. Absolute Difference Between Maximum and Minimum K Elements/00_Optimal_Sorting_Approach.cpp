@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements 
 
 
-// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [ARRAY], [SORTING], [SUM] 
+// TAGS: [RATING: 1206], [EASY], [OPTIMAL], [ARRAY], [SORTING], [SUM] 
 
 
 #include<bits/stdc++.h>

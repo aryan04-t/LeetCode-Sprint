@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/reverse-words-with-same-vowel-count 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [STRING], [SUBSTRING], [HASH SET], [REVERSING], [COUNTING], [SIMULATION]
+// TAGS: [RATING: 1391], [MEDIUM], [NAIVE OPTIMAL], [STRING], [SUBSTRING], [HASH SET], [REVERSING], [COUNTING], [SIMULATION]
 
 
 #include<bits/stdc++.h>

@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-moves-to-balance-circular-array 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL], [ARRAY], [CIRCULAR ARRAY], [MODULAR ARITHMETIC], [GREEDY], [SIMULATION], [MINIMIZING]  
+// TAGS: [RATING: 1739], [MEDIUM], [OPTIMAL], [STL], [ARRAY], [CIRCULAR ARRAY], [MODULAR ARITHMETIC], [GREEDY], [SIMULATION], [MINIMIZING]  
 
 
 #include<bits/stdc++.h>
