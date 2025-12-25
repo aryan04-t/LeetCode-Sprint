@@ -190,6 +190,9 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         
         - `FIRST OCCURRENCE PRECOMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
+        - `GP BASED TC ANALYSIS` | [Example Code](EMPTY_LINK_CURR) 
+            - Full Form: Geometric Progression Based Time Complexity Analysis 
+
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 

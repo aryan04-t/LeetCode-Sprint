@@ -88,6 +88,8 @@
       - `back()` 
 
       - `empty()`
+      
+      - `reserve()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp)
 
       - `begin() iterator` 
     
@@ -200,7 +202,11 @@
 
   - `llabs()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/00_Naive_Greedy_Approach.cpp) 
 
-  - `ceil()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3779.%20Minimum%20Number%20of%20Operations%20to%20Have%20Distinct%20Elements/02_Most_Optimal.cpp)
+  - `ceil()` 
+
+    - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3779.%20Minimum%20Number%20of%20Operations%20to%20Have%20Distinct%20Elements/02_Most_Optimal.cpp)
+
+    - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
 
 ### 9. Data Types
 
@@ -246,12 +252,19 @@
 
     - **inline** keyword initializes a static variable in-place  
 
+  - `move()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
+
+    - Helps in data ownership transfer of a vector in O(1) 
+
 ### 11. Headers
 
   - `#include<bits/stdc++.h>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/01_Naive_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp)
 
     - A special **Header**
 
+### 12. Time Complexity Analysis
+
+  - `Geometric Progression (GP) Based Analysis` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
 
 
 
