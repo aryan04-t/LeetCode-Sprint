@@ -144,7 +144,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
         - `HASH VECTOR` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3760.%20Maximum%20Substrings%20With%20Distinct%20Start/02_Naive_Optimal_Simulation_Approach.cpp) 
 
-        - `SIMULATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp)
+        - `SIMULATION` 
+            
+            - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp)
+
+            - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/01_Optimal_Simulation_Approach.cpp)
 
         - `BIT MASKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
@@ -191,7 +195,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `FIRST OCCURRENCE PRECOMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
         - `GP BASED TC ANALYSIS` | [Example Code](EMPTY_LINK_CURR) 
-            - Full Form: Geometric Progression Based Time Complexity Analysis 
+            - `Full Form:` Geometric Progression Based Time Complexity Analysis 
 
         - etc.
     
