@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/mirror-distance-of-an-integer 
 
 
-// TAGS: [RATING: 1170], [EASY], [MOST OPTIMAL], [DECIMAL NUMBER], [REVERSING] 
+// TAGS: [RATING: 1170], [EASY], [MOST OPTIMAL], [MATH], [DECIMAL NUMBER], [REVERSING] 
 
 
 #include<bits/stdc++.h> 
