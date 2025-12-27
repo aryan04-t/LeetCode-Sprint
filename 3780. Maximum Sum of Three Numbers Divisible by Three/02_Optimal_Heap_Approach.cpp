@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [MODULAR ARITHMETIC], [SUM], [MAXIMIZING], [HEAP], [MIN HEAP], [K LARGEST OR SMALLEST ELEMENTS] 
+// TAGS: [RATING: 1584], [MEDIUM], [OPTIMAL], [ARRAY], [MODULAR ARITHMETIC], [SUM], [MAXIMIZING], [HEAP], [MIN HEAP], [K LARGEST OR SMALLEST ELEMENTS] 
 
 
 #include<bits/stdc++.h>

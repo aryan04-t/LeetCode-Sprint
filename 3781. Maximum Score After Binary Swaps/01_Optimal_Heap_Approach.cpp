@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-score-after-binary-swaps 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [STRING], [GREEDY], [MAXIMIZING], [SUM], [HEAP], [MAX HEAP] 
+// TAGS: [RATING: 1823], [MEDIUM], [OPTIMAL], [ARRAY], [STRING], [GREEDY], [MAXIMIZING], [SUM], [HEAP], [MAX HEAP] 
 
 
 #include<bits/stdc++.h>

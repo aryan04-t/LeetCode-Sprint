@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations 
 
 
-// TAGS: [RATING: N/A], [HARD], [NAIVE], [MLE ERROR], [STL], [ARRAY], [SIMULATION], [GP BASED TC ANALYSIS] 
+// TAGS: [RATING: 2074], [HARD], [NAIVE], [MLE ERROR], [STL], [ARRAY], [SIMULATION], [GP BASED TC ANALYSIS] 
 
 
 #include<bits/stdc++.h>

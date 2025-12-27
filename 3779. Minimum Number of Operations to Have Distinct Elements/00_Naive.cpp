@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SIMULATION], [HASH SET], [COUNTING] 
+// TAGS: [RATING: 1444], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SIMULATION], [HASH SET], [COUNTING] 
 
 
 #include<bits/stdc++.h>
