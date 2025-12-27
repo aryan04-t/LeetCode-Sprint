@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-string-length-after-balanced-removals/ 
 
 
-// TAGS: [RATING: 1326], [MEDIUM], [NAIVE], [TLE ERROR], [STRING], [SUBSTRING], [RECURSION], [SIMULATION], [MINIMIZING] 
+// TAGS: [RATING: 1326], [MEDIUM], [NAIVE], [TLE ERROR], [STRING], [SUBSTRING], [RECURSION], [SIMULATION], [MINIMIZING], [EXPONENTIAL RECURSION TC ANALYSIS]
 
 
 #include<bits/stdc++.h>

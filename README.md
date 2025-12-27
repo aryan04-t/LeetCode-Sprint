@@ -208,8 +208,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         
         - `FIRST OCCURRENCE PRECOMPUTATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
-        - `GP BASED TC ANALYSIS` | [Example Code](EMPTY_LINK_CURR) 
+        - `GP BASED TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
             - `Full Form:` Geometric Progression Based Time Complexity Analysis 
+
+        - `EXPONENTIAL RECURSION TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
+            - `Full Form of TC:` Time Complexity 
 
         - etc.
     
