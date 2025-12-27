@@ -220,6 +220,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
         - `CHARACTER BOUND OPTIMIZATION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Character%20Bound%20Optimization.md) 
 
+        - `SURVIVOR POSITION TRACKING` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Survivor%20Position%20Tracking.md) 
+
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
 

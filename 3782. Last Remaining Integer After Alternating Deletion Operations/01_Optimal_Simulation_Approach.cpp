@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations 
 
 
-// TAGS: [RATING: 2074], [HARD], [OPTIMAL], [SIMULATION] 
+// TAGS: [RATING: 2074], [HARD], [OPTIMAL], [SIMULATION], [SURVIVOR POSITION TRACKING]  
 
 
 #include<bits/stdc++.h>
