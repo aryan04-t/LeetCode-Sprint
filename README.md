@@ -184,6 +184,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
         - `COUNTING` 
 
+        - `MATH` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3783.%20Mirror%20Distance%20of%20an%20Integer/01_Most_Optimal_Approach.cpp) 
+
         - `GREEDY` 
         
             - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 

@@ -17,7 +17,11 @@
 
   - `to_string()` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/00_Optimal.cpp)
 
-  - `stoi()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/00_Optimal.cpp)  
+  - `stoi()` 
+  
+    - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/00_Optimal.cpp)  
+
+    - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3783.%20Mirror%20Distance%20of%20an%20Integer/00_Optimal_String_Approach.cpp) 
 
     - Throws **Error** if String is Empty
 
