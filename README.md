@@ -102,6 +102,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `INTUITION INVERSION` | [Introduction to Intuition Inversion](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/30_Inverting%20Intuitions%20-%20A%20Problem%20Solving%20Framework.md)
 
+      - [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/02_Most_Optimal_Prefix_Sum_Approach.cpp) 
+
     - `DIVISION`
 
     - `SUBARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp) 
