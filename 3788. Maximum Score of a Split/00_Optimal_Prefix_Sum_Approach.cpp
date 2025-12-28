@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-score-of-a-split 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [PREFIX SUM], [SUFFIX MIN], [MAXIMIZING] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [PREFIX SUM], [SUFFIX ARRAY], [MAXIMIZING], [MATH] 
 
 
 #include<bits/stdc++.h>
