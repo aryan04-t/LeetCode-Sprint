@@ -14,15 +14,7 @@ public:
     long long maximumScore(vector<int>& nums) {
 
         int n = nums.size();
-        vector<long long> prefixSum(n, 0);
         vector<int> suffixMin(n, 0);
-
-        long long sum = 0;
-        for (int i=0; i < n; i++) {
-            int num = nums[i];
-            sum += num;
-            prefixSum[i] = sum;
-        }
 
         int mini = INT_MAX;
         for (int i=n-1; i >= 0; i--) {
@@ -31,9 +23,13 @@ public:
             suffixMin[i] = mini;
         }
 
+        long long prefixSum = 0;
         long long maxScore = LLONG_MIN;
+
         for (int i=0; i < n-1; i++) {
-            long long score = prefixSum[i] - suffixMin[i+1];
+            int num = nums[i];
+            prefixSum += num;
+            long long score = prefixSum - suffixMin[i+1];
             maxScore = max(score, maxScore);
         }
 
@@ -42,5 +38,5 @@ public:
 };
 
 
-// T.C. = O(n) + O(n) + O(n) = O(3n) = O(n) 
-// S.C. = O(n) + O(n) = O(2n) = O(n) 
+// T.C. = O(n) + O(n) = O(2n) = O(n) 
+// S.C. = O(n) 
