@@ -73,7 +73,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 - **RATING**: Question rating (number) derived from [LeetCode Difficulty Rating extension](https://chromewebstore.google.com/detail/hedijgjklbddpidomdhhngflipnibhca?utm_source=item-share-cb), or `N/A`
 - **DIFFICULTY**: `EASY` | `MEDIUM` | `HARD`
 - **APPROACH**: `NAIVE` | `NAIVE OPTIMAL` | `OPTIMAL` | `MOST OPTIMAL`
-- **ERRORS**: `TLE ERROR` | `MLE ERROR` | (empty if none)
+- **ERRORS**: `TLE ERROR` | `MLE ERROR` | `DATA TYPE OVERFLOW ERROR` | `INFINITE LOOP ERROR` | (empty if none)
 - **STL**: `STL` | (Empty if no uncommon stl function used)
 - **CONCEPTS, Data Structures & PATTERNS**: Problem-specific tags 
 
@@ -105,6 +105,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/02_Most_Optimal_Prefix_Sum_Approach.cpp) 
 
     - `DIVISION`
+
+    - `DIVISIBILITY` | [Example Code](EMPTY_LINK)
 
     - `SUBARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp) 
 
@@ -244,6 +246,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
 
+
+### FILL IN ALL THE `EMPTY_LINK` IF THERE ARE ANY
 
 
 ## 📝 NOTE:  
