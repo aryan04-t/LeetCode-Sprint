@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/n-repeated-element-in-size-2n-array 
 
 
+// TAGS: [RATING: 1161], [EASY], [OPTIMAL], [ARRAY], [HASH SET], [COUNTING] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
