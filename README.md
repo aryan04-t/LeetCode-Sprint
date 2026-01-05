@@ -78,7 +78,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 - **CONCEPTS, Data Structures & PATTERNS**: Problem-specific tags 
 
   - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
-  
+
     - `ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/006_1672.%20Richest%20Customer%20Wealth/00_Optimal_Approach.cpp)
 
     - `STRING` | [Example Code](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
@@ -97,7 +97,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `LINKED LIST` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/01_Another_Optimal.cpp) 
 
-    - `SLIDING WINDOW` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/13_Bit%20Manipulation/000_3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II/02_My_Optimal_Sliding_Window_and_Bit_Manipulation_Approach.cpp) 
+    - `SLIDING WINDOW` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Jog/blob/master/13_Bit%20Manipulation/000_3097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II/02_My_Optimal_Sliding_Window_and_Bit_Manipulation_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
     - `MODULAR ARITHMETIC` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/00_Optimal.cpp) 
 
@@ -215,7 +219,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `CIRCULAR ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/02_Most_Optimal_Greedy_Approach.cpp)
 
-    - `TWO POINTER` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/020_26.%20Remove%20Duplicates%20from%20Sorted%20Array/01_Optimal_Two_Pointer_Approach.cpp) 
+    - `TWO POINTER` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/020_26.%20Remove%20Duplicates%20from%20Sorted%20Array/01_Optimal_Two_Pointer_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/03_Most_Optimal_Sliding_Window_Two_Pointer_Approach.cpp) 
 
     - `PAIR SORTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/01_Naive_Optimal_Hash_Map_Sliding_Window_and_Sorting_Approach.cpp) 
 
