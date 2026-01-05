@@ -78,6 +78,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 - **CONCEPTS, Data Structures & PATTERNS**: Problem-specific tags 
 
   - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
+  
     - `ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/006_1672.%20Richest%20Customer%20Wealth/00_Optimal_Approach.cpp)
 
     - `STRING` | [Example Code](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
@@ -186,6 +187,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `SUM` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/00_Naive.cpp) 
 
+    - `DISTINCT SUM` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+
     - `HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/12_Heaps/003_506.%20Relative%20Ranks/01_My_Optimal_Max_Heap_Approach_Using_STL_Pair.cpp) 
 
     - `MIN HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/12_Heaps/005_703.%20Kth%20Largest%20Element%20in%20a%20Stream/00_My_Optimal_Min_Heap_Approach.cpp) 
@@ -195,6 +198,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/01_Optimal_Heap_Approach.cpp) 
+
+    - `QUEUE` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
     - `C++ STRING STREAM` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) | [My Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes)
 
