@@ -16,11 +16,10 @@ public:
         int m = nums.size();
         int n = m / 2;
 
-        for (int i=0; i < m-1; i++) {
+        for (int i=2; i < m; i++) {
             int num = nums[i];
-            if (nums[i] == nums[i+1]) return num;
-            else if (i < m-2 && nums[i] == nums[i+2]) return num;
-            else if (i < m-3 && nums[i] == nums[i+3]) return num;
+            if (nums[i] == nums[i-1] || nums[i] == nums[i-2]) return num;
+            else if (i >= 3 && nums[i] == nums[i-3]) return num;
         }
 
         return -1;
@@ -28,7 +27,7 @@ public:
 };
 
 
-// T.C. = O(m-1) = O((2*n)-1) = O(n) 
+// T.C. = O(m-2) = O((2*n)-2) = O(n) 
 // S.C. = O(1) 
 
 // Here, m = 2*n
