@@ -125,6 +125,20 @@
 
       - `How to loop on unordered_map` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/00_Naive_Hash_Map_and_Sorting_Approach.cpp) 
 
+  - `queue<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+
+    - Member Functions: 
+
+      - `empty()`
+
+      - `size()`
+
+      - `push()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+
+      - `pop()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+
+      - `front()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+
   - `priority_queue<data_type>` 
 
     - Min Heap | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/03_Naive_Heap_Approach.cpp) 
