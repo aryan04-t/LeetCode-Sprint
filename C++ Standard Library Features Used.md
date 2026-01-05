@@ -202,11 +202,15 @@
       - Gives index at which the "it" iterator points in the vector<data_type> 
   
 
-    - `it += k;` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/02_Optimal_Sorting_STL_Approach.cpp) 
+    - `it += k;` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/02_Optimal_Sorting_STL_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3794.%20Reverse%20String%20Prefix/01_Most_Optimal_Approach.cpp)
 
       - Here k is an **int**, this makes the pointer move forward 
 
-    - `it -= k` 
+    - `it -= k;` 
 
       - Here k is an **int**, this makes the pointer move backward 
 
