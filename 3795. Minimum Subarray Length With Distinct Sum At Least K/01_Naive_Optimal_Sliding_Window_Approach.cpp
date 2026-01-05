@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [TLE ERROR], [ARRAY], [SUBARRAY], [SLIDING WINDOW], [HASH MAP], [SUM], [MINIMIZING] 
+// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [TLE ERROR], [ARRAY], [SUBARRAY], [SLIDING WINDOW], [HASH MAP], [SUM], [DISTINCT SUM], [MINIMIZING] 
 
 
 #include<bits/stdc++.h>
