@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/four-divisors 
 
 
-// TAGS: [RATING: 1478], [MEDIUM], [NAIVE], [ARRAY], [MATH], [DIVISORS], [SUM], [HASH MAP], [MEMOIZATION] 
+// TAGS: [RATING: 1478], [MEDIUM], [NAIVE], [ARRAY], [MATH], [DIVISOR], [SUM], [HASH MAP], [MEMOIZATION] 
 
 
 #include<bits/stdc++.h>

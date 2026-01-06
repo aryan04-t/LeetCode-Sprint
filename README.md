@@ -111,7 +111,9 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `DIVISION`
 
-    - `DIVISIBILITY` | [Example Code](EMPTY_LINK)
+    - `DIVISIBILITY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/01_Naive_Optimal.cpp) 
+
+    - `DIVISOR` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/00_Naive_Approach.cpp) 
 
     - `SUBARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp) 
 
@@ -146,8 +148,6 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     - `PERIMETER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/976.%20Largest%20Perimeter%20Triangle/00_Naive.cpp) 
 
     - `AREA` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/03_Maths/005_812.%20Largest%20Triangle%20Area/00_Optimal_Approach_Herons_Formula.cpp)
-
-    - `DIVISIBILITY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/01_Naive_Optimal.cpp) 
 
     - `PREFIX SUM` 
     
@@ -242,6 +242,9 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `EXPONENTIAL RECURSION TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
       - `Full Form of TC:` Time Complexity 
+
+    
+    - `MEMOIZATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/00_Naive_Approach.cpp)
 
     - etc.
     
