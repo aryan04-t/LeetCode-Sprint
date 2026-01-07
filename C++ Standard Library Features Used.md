@@ -232,6 +232,8 @@
 
     - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
 
+  - `sqrt()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/01_Optimal_Approach.cpp) 
+
 ### 9. Data Types
 
   - `long long` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/00_Optimal.cpp)
