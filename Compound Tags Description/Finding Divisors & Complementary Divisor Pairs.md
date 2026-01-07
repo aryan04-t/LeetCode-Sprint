@@ -119,6 +119,11 @@ Divisors: {1,2,3,4,6,9,12,18,36}, Count: 9
 ```
 
 
+## 🚀 Practice Problems
+
+1390. Four Divisors | [Question Link](https://leetcode.com/problems/four-divisors) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/01_Optimal_Approach.cpp) 
+
+
 ## 💡 Extra Insights: 
 
 - We understood that divisors come in complementary pairs (d, n/d), and we might initially think after knowing this fact that `all numbers must have an even number of divisors then?`, since each divisor d always has a complement n/d, but `this isn't true because of perfect squares`, theys have a special case where d = n/d (meaning d² = n), which counts as only one unique divisor rather than two distinct ones—for example, with n = 36 and d = 6, we get n/d = 6 as well, so only one unique divisor (6) is added to the count of divisors, not two, which is why perfect squares have an odd number of divisors."

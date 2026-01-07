@@ -10,3 +10,8 @@ A number has exactly 4 divisors in TWO cases:
 - 6 = 2×3 → {1, 2, 3, 6}
 - 21 = 3×7 → {1, 3, 7, 21}
 - 15 = 3×5 → {1, 3, 5, 15}
+
+
+## 🚀 Practice Problems
+
+1390. Four Divisors | [Question Link](https://leetcode.com/problems/four-divisors) | [My Solutions](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/01_Optimal_Approach.cpp) 
