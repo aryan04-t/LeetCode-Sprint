@@ -1,4 +1,4 @@
-## 🎯 Exactly 4 Divisors Math
+# 🎯 Exactly 4 Divisors Math
 
 A number has exactly 4 divisors in TWO cases:
 
