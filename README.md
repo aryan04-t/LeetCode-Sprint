@@ -247,8 +247,10 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     - `MEMOIZATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/00_Naive_Approach.cpp)
 
     - etc.
+
     
   - Compound Concept Tags (Compound Concepts & Patterns): 
+
     - `PREFIX SUM - CYCLIC HASH - SUBARRAY REDUCTION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Prefix%20Sum%20-%20Cyclic%20Hash%20-%20Subarray%20Reduction.md) 
 
     - `K LARGEST OR SMALLEST ELEMENTS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/K%20Largest%20or%20Smallest%20Elements.md) 
@@ -258,6 +260,10 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     - `CHARACTER BOUND OPTIMIZATION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Character%20Bound%20Optimization.md) 
 
     - `SURVIVOR POSITION TRACKING` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Survivor%20Position%20Tracking.md) 
+
+    - `FINDING DIVISOR & COMPLEMENTARY DIVISOR PAIRS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Finding%20Divisors%20%26%20Complementary%20Divisor%20Pairs.md) 
+
+    - `FOUR DIVISORS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Four%20Divisors.md) 
 
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
