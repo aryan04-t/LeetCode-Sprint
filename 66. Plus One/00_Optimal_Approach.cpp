@@ -18,10 +18,14 @@ public:
 
         int carry = 0;
         for (int i=0; i < n; i++) {
+         
             int incrementedDigit = digits[i] + carry + ((i == 0) ? 1 : 0);
             int newDigit = incrementedDigit % 10;
+         
             digits[i] = newDigit;
             carry = incrementedDigit / 10;
+        
+            if (carry == 0) break;
         }
 
         if (carry) digits.push_back(carry);

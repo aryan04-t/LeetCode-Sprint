@@ -17,10 +17,14 @@ public:
 
         int carry = 0;
         for (int i=n-1; i >= 0; i--) {
+            
             int incrementedDigit = digits[i] + carry + ((i == n-1) ? 1 : 0);
             int newDigit = incrementedDigit % 10;
+            
             digits[i] = newDigit;
             carry = incrementedDigit / 10;
+
+            if (carry == 0) return digits;
         }
 
         if (carry) digits.insert(digits.begin(), carry);
@@ -30,5 +34,5 @@ public:
 };
 
 
-// T.C. = O(n) + O(n) = O(2n) = O(n) 
+// T.C. = O(n) + O(n) = O(2n) = O(n) -> [Best Case: O(1), Worst Case: O(n)]
 // S.C. = O(1) 
