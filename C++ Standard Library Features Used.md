@@ -92,6 +92,8 @@
       - `back()` 
 
       - `empty()`
+
+      - `insert()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/66.%20Plus%20One/01_Another_Optimal_Approach.cpp) 
       
       - `reserve()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp)
 
