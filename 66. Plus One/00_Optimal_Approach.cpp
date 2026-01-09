@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/plus-one 
 
 
-// TAGS: [RATING: N/A], [EASY], [NAIVE], [STL], [ARRAY], [DECIMAL NUMBER], [MATH], [SUM] 
+// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [STL], [ARRAY], [DECIMAL NUMBER], [MATH], [SUM] 
 
 
 #include<bits/stdc++.h>
