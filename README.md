@@ -95,7 +95,15 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `HASH SET` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/055_3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K/00_My_Optimal_Unordered_Set_Iterative_Approach.cpp) 
 
-    - `LINKED LIST` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/01_Another_Optimal.cpp) 
+    - `LINKED LIST` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/01_Another_Optimal.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/234.%20Palindrome%20Linked%20List/00_Naive_Approach.cpp) 
+
+    - `REVERSING LINKED LIST` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/234.%20Palindrome%20Linked%20List/00_Naive_Approach.cpp) 
+    
+    - `DUPLICATING LINKED LIST` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/234.%20Palindrome%20Linked%20List/00_Naive_Approach.cpp) 
 
     - `SLIDING WINDOW` 
     
