@@ -15,7 +15,7 @@ public:
 
         int n = s.length();
     
-        unordered_map<int, int> charFreq;
+        unordered_map<char, int> charFreq;
         int distinctChars = 0;
         int ans = 0;
         
