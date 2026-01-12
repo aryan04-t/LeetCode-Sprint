@@ -22,9 +22,11 @@ public:
             char ch = s[i];
             uniqueChars.insert(ch);
 
+            if (uniqueChars.size() > 2) break;
+
             int totalUniqueChars = static_cast<int>(uniqueChars.size());
             int prefixLen = i + 1;
-            
+
             if (totalUniqueChars == (prefixLen % 3)) ans++;
         }
 
@@ -33,5 +35,5 @@ public:
 };
 
 
-// T.C. = O(n) 
-// S.C. = O(26) = O(1)  
+// T.C. = O(n) -> [Best Case: O(3) = O(1), Worst Case: O(n)] 
+// S.C. = O(3) = O(1) 
