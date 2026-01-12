@@ -271,6 +271,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `CHARACTER BOUND OPTIMIZATION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Character%20Bound%20Optimization.md) 
 
+    - `TRACKING SEEN CHARACTERS OF ALPHABET` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Tracking%20Seen%20Characters%20of%20Alphabet.md) 
+
     - `SURVIVOR POSITION TRACKING` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Survivor%20Position%20Tracking.md) 
 
     - `FINDING DIVISOR & COMPLEMENTARY DIVISOR PAIRS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Finding%20Divisors%20%26%20Complementary%20Divisor%20Pairs.md) 
