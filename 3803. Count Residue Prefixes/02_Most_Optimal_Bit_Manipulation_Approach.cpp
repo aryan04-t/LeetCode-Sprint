@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/count-residue-prefixes 
 
 
-// TAGS: [RATING: N/A], [EASY], [MOST OPTIMAL], [STRING], [BIT MANIPULATION], [MODULAR ARITHMETIC] 
+// TAGS: [RATING: N/A], [EASY], [MOST OPTIMAL], [STRING], [BIT MANIPULATION], [BIT MASKING], [TRACKING SEEN CHARACTERS OF ALPHABET], [MODULAR ARITHMETIC] 
 
 
 #include<bits/stdc++.h>
