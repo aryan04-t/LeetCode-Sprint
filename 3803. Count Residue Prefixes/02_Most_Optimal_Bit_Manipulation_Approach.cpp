@@ -30,6 +30,8 @@ public:
                 distinctChars++;
                 charSeenMask |= charPos;
             }
+
+            if (distinctChars > 2) break;
             
             int prefixLen = i + 1;
             if (distinctChars == (prefixLen % 3)) ans++;
