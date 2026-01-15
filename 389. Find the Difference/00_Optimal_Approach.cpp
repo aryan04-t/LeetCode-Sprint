@@ -31,7 +31,7 @@ public:
 };
 
 
-// T.C. = O(n) + O(n) = O(2n) = O(n) 
+// T.C. = O(n) + O(n+1) = O(2n + 1) = O(n) 
 // S.C. = O(26) = O(1) 
 
 // Here, n = s.length() and n + 1 == t.length() 
