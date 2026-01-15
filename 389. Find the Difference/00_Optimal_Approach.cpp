@@ -32,6 +32,6 @@ public:
 
 
 // T.C. = O(n) + O(n) = O(2n) = O(n) 
-// S.C. = O(n) 
+// S.C. = O(26) = O(1) 
 
 // Here, n = s.length() and n + 1 == t.length() 
