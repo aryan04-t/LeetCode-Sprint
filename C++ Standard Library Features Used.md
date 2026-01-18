@@ -65,6 +65,8 @@
 
   - `isalpha()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/01_Another_Optimal_Approach.cpp) 
 
+    - Only returns true for 52 alphabet characters (a to z) and (A to Z), else false 
+
 ### 5. Data Structures
 
   - `unordered_set<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
