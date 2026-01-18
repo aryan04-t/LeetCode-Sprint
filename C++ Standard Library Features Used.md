@@ -63,6 +63,8 @@
 
   - `stringstream` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) 
 
+  - `isalpha()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/01_Another_Optimal_Approach.cpp) 
+
 ### 5. Data Structures
 
   - `unordered_set<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
