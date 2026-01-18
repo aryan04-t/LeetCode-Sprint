@@ -228,6 +228,8 @@
 
   - `llabs()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/00_Naive_Greedy_Approach.cpp) 
 
+  - `floor()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/00_Optimal_Approach.cpp) 
+
   - `ceil()` 
 
     - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3779.%20Minimum%20Number%20of%20Operations%20to%20Have%20Distinct%20Elements/02_Most_Optimal.cpp)
@@ -262,11 +264,11 @@
 
   - `Custom Hashing Functor` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/02_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
-    - **Functor** - A object which is callable like a function - creater by defining **size_t operator()** in a **C++ class** 
+    - **Functor** - A object which is callable like a function - creator by defining **size_t operator()** in a **C++ class** 
 
     - In a Custom Hash Functor `operator()` definition should always have **const specified in front** of it, and the operator's definition should be **public** 
     
-    - The const gives surity that no static or non-static data members of class are manipulated by the operator() definition 
+    - The const gives surety that no static or non-static data members of class are manipulated by the operator() definition 
 
     - **Custom Hash Functor** has to be defined in cases like, when `pair<int, int>` is a key of an `unordered_map`, Ex: `unordered_map<pair<int, int>, int, PairHash> mp;` 
 
