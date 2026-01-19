@@ -67,21 +67,7 @@
 
     - Only returns true for 52 alphabet characters (a to z) and (A to Z), else false 
 
-### 5. Data Structures
-
-  - `unordered_set<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
-
-    - Member Functions:
-
-      - `insert()` | [Example Code](EMPTY_LINK)
-
-      - `erase()` | [Example Code](EMPTY_LINK)
-
-      - `find()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp)
-
-      - `end() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp)
-
-      - `count()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp)  
+### 5. Data Structures 
 
   - `vector<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/00_Naive_Hash_Map_and_Sorting_Approach.cpp) 
 
@@ -130,6 +116,44 @@
       - `end() iterator` | [Example Code](EMPTY_LINK) 
 
       - `How to loop on unordered_map` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/00_Naive_Hash_Map_and_Sorting_Approach.cpp) 
+    
+  - `unordered_set<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
+
+    - `pair<data_type, data_type>` **cannot be a key** of **unordered_set** by default, because default hash function is not present for pair data_type in C++, you have to write a custom hash functor to make the pair work as a key of unordered_set 
+
+    - Member Functions:
+
+      - `insert()` | [Example Code](EMPTY_LINK)
+
+      - `erase()` | [Example Code](EMPTY_LINK)
+
+      - `find()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp)
+
+      - `end() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp)
+
+      - `count()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp) 
+
+  - `set<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp) 
+
+    - This is an `ordered set`, which is a tree based set, this set in C++ under the hood uses Red-Black Trees to store the values 
+
+    - **Red-Black Trees** are `self-balancing binary search trees`
+
+    - Member Functions: 
+
+      - `empty()` | [Example Code](EMPTY_LINK) 
+
+      - `insert()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp)
+
+      - `erase()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp)
+
+      - `begin() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp) 
+
+      - `end() iterator` | [Example Code](EMPTY_LINK) 
+
+      - `rbegin() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp) 
+
+      - `rend() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/00_My_Naive_Optimal_Approach.cpp) 
 
   - `queue<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
@@ -281,6 +305,8 @@
     - A class always end with a **semicolon ;** 
 
     - Also, always use bitwise operators to create hash, they create a 
+
+  - `hash<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/02_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
   - `inline static` Keywords | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3766.%20Minimum%20Operations%20to%20Make%20Binary%20Palindrome/01_Optimal_Precomputation_And_Binary_Search_Approach.cpp) 
 
