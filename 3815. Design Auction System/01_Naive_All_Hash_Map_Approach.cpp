@@ -12,10 +12,11 @@ using namespace std;
 class AuctionSystem {
 private:
     unordered_map<int, unordered_map<int, int>> itemUserBids; // S.C. = O(n) 
-    unordered_map<int, pair<int, int>> itemMaxBidAndUser; // S.C. = O(n) 
 
     // T.C. = O(m); S.C. = O(1) 
-    void findMaxBidAndUserId (int itemId) {
+    int findMaxBidUserId (int itemId) {
+
+        if (itemUserBids[itemId].empty()) return -1;
 
         int maxBid = -1;
         int maxUserId = -1;
@@ -34,15 +35,7 @@ private:
             }
         }
 
-        itemMaxBidAndUser[itemId] = { maxBid, maxUserId };
-    }
-
-    // T.C. = O(m); S.C. = O(1) 
-    void addOrUpdateExistingBid (int userId, int itemId, int newBidAmount) {
-
-        itemUserBids[itemId][userId] = newBidAmount;
-
-        findMaxBidAndUserId(itemId);
+        return maxUserId;
     }
 
 public:
@@ -50,42 +43,25 @@ public:
         
     }
     
-    // T.C. = O(m); S.C. = O(1) 
+    // T.C. = O(1); S.C. = O(1) 
     void addBid(int userId, int itemId, int bidAmount) {
-        addOrUpdateExistingBid(userId, itemId, bidAmount);
-    }
-    
-    // T.C. = O(m); S.C. = O(1) 
-    void updateBid(int userId, int itemId, int newAmount) {
-        addOrUpdateExistingBid(userId, itemId, newAmount);
-    }
-    
-    // T.C. = O(m); S.C. = O(1) 
-    void removeBid(int userId, int itemId) {
-        
-        auto it = itemUserBids[itemId].find(userId);
-        itemUserBids[itemId].erase(it);
-        
-        if (itemMaxBidAndUser[itemId].second != userId) {
-            return;
-        }
-
-        if (itemUserBids[itemId].empty()) {
-            itemMaxBidAndUser.erase(itemId);
-            return;
-        }
-
-        findMaxBidAndUserId(itemId);
+        itemUserBids[itemId][userId] = bidAmount;
     }
     
     // T.C. = O(1); S.C. = O(1) 
+    void updateBid(int userId, int itemId, int newAmount) {
+        itemUserBids[itemId][userId] = newAmount;
+    }
+    
+    // T.C. = O(1); S.C. = O(1) 
+    void removeBid(int userId, int itemId) {
+        auto it = itemUserBids[itemId].find(userId);
+        itemUserBids[itemId].erase(it);
+    }
+    
+    // T.C. = O(m); S.C. = O(1) 
     int getHighestBidder(int itemId) {
-        
-        if (itemMaxBidAndUser[itemId] == make_pair(0, 0)) {
-            return -1;
-        }
-
-        return itemMaxBidAndUser[itemId].second;
+        return findMaxBidUserId(itemId);
     }
 };
 
