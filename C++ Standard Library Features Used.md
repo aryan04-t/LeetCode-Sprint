@@ -159,9 +159,9 @@
 
     - Member Functions: 
 
-      - `empty()`
+      - `empty()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/02_Optimal_BFS_Level_Order_Traversal_Approach.cpp)
 
-      - `size()`
+      - `size()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/02_Optimal_BFS_Level_Order_Traversal_Approach.cpp) 
 
       - `push()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
