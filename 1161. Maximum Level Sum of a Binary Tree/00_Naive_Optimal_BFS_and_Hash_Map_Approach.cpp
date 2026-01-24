@@ -43,22 +43,22 @@ public:
             levelSum[level] += node->val;
         }
 
-        int maxiSum = INT_MIN;
-        int maxiSumLevel = INT_MIN;
+        int maxSum = INT_MIN;
+        int maxSumMinLevel = INT_MIN;
 
         for (const pair<int, int> p : levelSum) {
             int level = p.first;
             int sum = p.second;
             if (
-                (sum > maxiSum) || 
-                (sum == maxiSum && level < maxiSumLevel)
+                (sum > maxSum) || 
+                (sum == maxSum && level < maxSumMinLevel)
             ) {
-                maxiSum = sum;
-                maxiSumLevel = level;
+                maxSum = sum;
+                maxSumMinLevel = level;
             }
         }
 
-        return maxiSumLevel;
+        return maxSumMinLevel;
     }
 };
 
