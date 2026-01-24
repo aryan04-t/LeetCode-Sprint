@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree 
 
 
-// TAGS: [RATING: 1249], [MEDIUM], [NAIVE OPTIMAL], [STL], [TREE], [BINARY TREE], [BFS], [HASH MAP], [TREE LEVEL SUM], [SUM] 
+// TAGS: [RATING: 1249], [MEDIUM], [NAIVE OPTIMAL], [STL], [TREE], [BINARY TREE], [BFS], [BINARY TREE BFS], [QUEUE], [HASH MAP], [TREE LEVEL SUM], [SUM], [MAXIMIZING], [MINIMIZING] 
 
 
 #include<bits/stdc++.h>
