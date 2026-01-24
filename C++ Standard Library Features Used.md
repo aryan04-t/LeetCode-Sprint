@@ -290,8 +290,6 @@
 
     - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
 
-  - `auto` keyword | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
-
   - `Custom Hashing Functor` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/02_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
     - **Functor** - A object which is callable like a function - creator by defining **size_t operator()** in a **C++ class** 
@@ -319,6 +317,12 @@
     - Helps in data ownership transfer of a vector in O(1) 
 
   - `nullptr` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
+  
+  - `auto` keyword | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
+
+  - `auto` keyword based `destructuring containers` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/019_987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/02_Destructuring_of_Structured_Datatypes_in_C%2B%2B.md) | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
+
+    - also known as `auto keyword` and `Structured Binding Functionality` of C++ for Destructuring STL Containers
 
 ### 11. Headers
 
