@@ -84,6 +84,8 @@
       - `empty()`
 
       - `insert()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/66.%20Plus%20One/01_Another_Optimal_Approach.cpp) 
+
+      - `erase()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/01_Most_Optimal_STL_Approach.cpp) 
       
       - `reserve()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp)
 
@@ -205,6 +207,8 @@
 
     - Algo used under the hood **intro-sort**
 
+  - `is_sorted()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/01_Most_Optimal_STL_Approach.cpp) 
+
   - `greater<data_type>()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3759.%20Count%20Elements%20With%20at%20Least%20K%20Greater%20Values/00_Optimal_Sorting_Approach.cpp) 
 
   - `Custom Sort` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/33_Custom%20Sorting%20in%20C%2B%2B.md) | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp)
@@ -312,7 +316,11 @@
 
     - **inline** keyword initializes a static variable in-place  
 
-  - `move()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
+  - `move()` 
+  
+    - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
+
+    - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/00_Optimal_Approach.cpp) 
 
     - Helps in data ownership transfer of a vector in O(1) 
 
