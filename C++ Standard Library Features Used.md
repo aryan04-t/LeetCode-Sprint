@@ -207,7 +207,7 @@
 
   - `greater<data_type>()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3759.%20Count%20Elements%20With%20at%20Least%20K%20Greater%20Values/00_Optimal_Sorting_Approach.cpp) 
 
-  - `Custom Sort` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp)
+  - `Custom Sort` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/blob/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/33_Custom%20Sorting%20in%20C%2B%2B.md) | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp)
 
   - `reverse()` 
 
