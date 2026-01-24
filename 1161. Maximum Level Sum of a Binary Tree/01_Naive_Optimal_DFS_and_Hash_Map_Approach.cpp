@@ -42,7 +42,7 @@ public:
         dfs(root, 1, levelSum);
 
         int maxSum = INT_MIN;
-        int maxSumMinLevel = INT_MIN;
+        int maxSumMinLevel = INT_MAX;
 
         for (const pair<int, int> p : levelSum) {
             int level = p.first;
