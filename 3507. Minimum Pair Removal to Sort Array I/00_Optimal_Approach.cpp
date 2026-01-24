@@ -13,18 +13,17 @@ class Solution {
 public:
     int findMinAdjacentPairStartIndex(const vector<int> &nums) {
         
-        int i = nums.size() - 1;
         int minAdjPairStartIdx = -1;
-
         int minSum = INT_MAX;
 
-        while (i >= 1) {
+        int n = nums.size();
+        
+        for (int i = n - 1; i >= 1; i--) {
             int sum = nums[i-1] + nums[i];
             if (sum <= minSum) {
                 minSum = sum;
                 minAdjPairStartIdx = i-1;
             }
-            i--;
         }
 
         return minAdjPairStartIdx;
@@ -45,15 +44,15 @@ public:
 
     int minimumPairRemoval(vector<int>& nums) {
         
-        vector<int> newNums;
         int minMoves = 0;
 
         while (!isArrayNonDecreasing(nums)) {
 
             int minAdjPairStartIdx = findMinAdjacentPairStartIndex(nums); 
             
+            vector<int> newNums;
             int n = nums.size();
-            int i=0; 
+            int i = 0; 
 
             while (i < n) {
                 if (minAdjPairStartIdx == i) {
