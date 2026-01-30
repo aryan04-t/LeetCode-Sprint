@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/rotate-array 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [ROTATE ARRAY], [ROTATE ARRAY FROM RIGHT], [SIMULATION], [CYCLIC ARRAY], [MATH], [MODULAR ARITHMETIC] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [ROTATE ARRAY], [ROTATE ARRAY FROM RIGHT], [MATH], [MODULAR ARITHMETIC] 
 
 
 #include<bits/stdc++.h>
