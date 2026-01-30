@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/design-auction-system 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ORDERED SET], [HASH MAP], [DESIGN], [SIMULATION] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ORDERED SET OF PAIR], [HASH MAP], [DESIGN], [SIMULATION] 
 
 
 #include<bits/stdc++.h>

@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/design-auction-system 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [HASH MAP], [HASH SET], [ORDERED SET], [DESIGN], [UNIQUE KEY GENERATION], [SIMULATION] 
+// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [HASH MAP], [HASH SET], [ORDERED SET OF PAIR], [DESIGN], [UNIQUE KEY GENERATION], [SIMULATION] 
 
 
 #include<bits/stdc++.h>

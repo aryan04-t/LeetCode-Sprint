@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i 
 
 
-// TAGS: [RATING: 1348], [EASY], [NAIVE], [ARRAY], [SIMULATION], [SUM], [MINIMIZING], [ORDERED SET], [CHECK IS ARRAY SORTED], [MAKE ARRAY NON-DECREASING SORTED] 
+// TAGS: [RATING: 1348], [EASY], [NAIVE], [ARRAY], [SIMULATION], [SUM], [MINIMIZING], [ORDERED SET OF PAIR], [CHECK IS ARRAY SORTED], [MAKE ARRAY NON-DECREASING SORTED] 
 
 
 #include<bits/stdc++.h>
