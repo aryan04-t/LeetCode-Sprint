@@ -277,7 +277,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
 
-    - `C++ STRING STREAM` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) | [My Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes)
+    - `C++ STRING STREAM` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes) | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) 
 
     - `COUNTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/00_Optimal_Approach.cpp) 
 
