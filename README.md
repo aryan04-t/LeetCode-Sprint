@@ -139,6 +139,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/189.%20Rotate%20Array/03_Most_Optimal_Reversing_Approach.cpp) 
 
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3827.%20Count%20Monobit%20Integers/01_Most_Optimal_Approach.cpp) 
+
     - `DIVISION`
 
     - `DIVISIBILITY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/01_Naive_Optimal.cpp) 
@@ -167,7 +169,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `DECIMAL STRING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/00_Optimal.cpp) 
 
-    - `BIT MANIPULATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp) 
+    - `BIT MANIPULATION` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3769.%20Sort%20Integers%20by%20Binary%20Reflection/00_Optimal_Custom_Sort_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3827.%20Count%20Monobit%20Integers/01_Most_Optimal_Approach.cpp) 
 
     - `BIT MASKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
