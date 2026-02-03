@@ -29,7 +29,11 @@
 
   - `min()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/00_Naive.cpp)
 
-  - `max()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/00_Naive.cpp)
+  - `max()` 
+  
+    - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/00_Naive.cpp)
+
+    - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3828.%20Final%20Element%20After%20Subarray%20Deletions/00_Optimal_Approach.cpp) 
 
   - `pair<data_type, data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/00_Naive_Hash_Map_and_Sorting_Approach.cpp)
 
