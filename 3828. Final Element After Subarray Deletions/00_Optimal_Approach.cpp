@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/final-element-after-subarray-deletions 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [MAXIMIZING], [MINIMIZING], [GAME THEORY] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [ARRAY], [SUBARRAY], [MAXIMIZING], [MINIMIZING], [GREEDY], [GAME THEORY], [BRAIN TEASER] 
 
 
 #include<bits/stdc++.h>
