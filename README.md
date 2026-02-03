@@ -291,6 +291,12 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/01_Optimal_Heap_Approach.cpp) 
 
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3828.%20Final%20Element%20After%20Subarray%20Deletions/00_Optimal_Approach.cpp)
+
+    - `GAME THEORY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3828.%20Final%20Element%20After%20Subarray%20Deletions/00_Optimal_Approach.cpp) 
+
+    - `BRAIN TEASER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3828.%20Final%20Element%20After%20Subarray%20Deletions/00_Optimal_Approach.cpp) 
+
     - `PAIRING` | [Example Code - EMPTY LINK](EMPTY_LINK) 
 
     - `CIRCULAR ARRAY` 
@@ -326,7 +332,6 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `EXPONENTIAL RECURSION TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
       - `Full Form of TC:` Time Complexity 
-
     
     - `MEMOIZATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/00_Naive_Approach.cpp)
 
