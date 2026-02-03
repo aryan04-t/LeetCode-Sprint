@@ -163,7 +163,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `BINARY STRING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 
 
-    - `BINARY NUMBER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3750.%20Minimum%20Number%20of%20Flips%20to%20Reverse%20Binary%20String/01_Optimal_Another.cpp)
+    - `BINARY NUMBER` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3750.%20Minimum%20Number%20of%20Flips%20to%20Reverse%20Binary%20String/01_Optimal_Another.cpp)
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3827.%20Count%20Monobit%20Integers/00_Optimal_Approach.cpp) 
 
     - `DECIMAL NUMBER` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/01_Most_Optimal.cpp)
 
