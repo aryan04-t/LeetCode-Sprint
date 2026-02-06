@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/design-ride-sharing-system 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [DESIGN], [QUEUE], [HASH TABLE], [LAZY DELETIONS] 
+// TAGS: [RATING: 1593], [MEDIUM], [OPTIMAL], [STL], [DESIGN], [QUEUE], [HASH TABLE], [LAZY DELETIONS] 
 
 
 #include<bits/stdc++.h>
@@ -11,27 +11,30 @@ using namespace std;
 
 class RideSharingSystem {
 private:
-    queue<int> riderQ;
-    queue<int> driverQ;
-    unordered_map<int, bool> riderWaiting;
+    queue<int> riderQ;  // S.C. = O(n) 
+    queue<int> driverQ; // S.C. = O(m) 
+    unordered_map<int, bool> riderWaiting; // S.C. = O(n) 
     
 public:
     RideSharingSystem() {
         
     }
     
+    // T.C. = O(1); S.C. = O(1) 
     void addRider(int riderId) {
         riderQ.push(riderId);
         riderWaiting[riderId] = true;
     }
     
+    // T.C. = O(1); S.C. = O(1) 
     void addDriver(int driverId) {
         driverQ.push(driverId);
     }
     
+    // T.C. = O(n); S.C. = O(1) 
     vector<int> matchDriverWithRider() {
         
-        while (!riderQ.empty() && !riderWaiting[riderQ.front()]) {
+        while (!riderQ.empty() && !riderWaiting.count(riderQ.front())) {
             riderQ.pop();
         }
         
@@ -39,9 +42,10 @@ public:
             int riderId = riderQ.front();
             int driverId = driverQ.front();
 
-            riderWaiting.erase(riderId);
             riderQ.pop();
             driverQ.pop();
+
+            riderWaiting.erase(riderId);
             
             return { driverId, riderId };
         }
@@ -49,10 +53,14 @@ public:
         return { -1, -1 };
     }
     
+    // T.C. = O(1); S.C. = O(1) 
     void cancelRider(int riderId) {
         riderWaiting.erase(riderId);
     }
 };
+
+
+// Here, n = total number of riders, m = total number of drivers 
 
 
 /*
