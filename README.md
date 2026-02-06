@@ -103,7 +103,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp)
 
-    - `HASH SET` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/055_3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K/00_My_Optimal_Unordered_Set_Iterative_Approach.cpp) 
+    - `HASH SET` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/055_3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K/00_My_Optimal_Unordered_Set_Iterative_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
 
     - `ORDERED SET OF PAIR` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
 
@@ -241,7 +245,13 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/01_Optimal_Simulation_Approach.cpp)
 
-    - `DESIGN` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
+    - `DESIGN` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
+
+    - `LAZY DELETIONS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
 
     - `UNIQUE KEY GENERATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
     
@@ -280,6 +290,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
+
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
 
     - `C++ STRING STREAM` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes) | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) 
 
