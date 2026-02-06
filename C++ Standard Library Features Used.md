@@ -145,9 +145,12 @@
 
       - `size()` 
 
-      - `mp[key] = value` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/01_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
+      - `mp[key] = value` | [Example Code-1](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/01_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp)
+      
+      - `erase()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
 
-      - `count()` | [Example Code - EMPTY LINK](EMPTY_LINK) 
+      - `count()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
+
 
       - `find()` | [Example Code - EMPTY LINK](EMPTY_LINK) 
 
@@ -169,13 +172,13 @@
 
     - Member Functions:
 
-      - `insert()` | [Example Code - EMPTY LINK](EMPTY_LINK)
+      - `insert()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
 
-      - `erase()` | [Example Code - EMPTY LINK](EMPTY_LINK)
+      - `erase()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
 
       - `find()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp)
 
-      - `count()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp)
+      - `count()` | [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/01_Optimal.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/02_Most_Optimal_Queue_and_Hash_Set_Approach.cpp) 
 
     - Unordered Set Iterators: 
 
@@ -219,15 +222,15 @@
 
     - Member Functions: 
 
-      - `empty()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/02_Optimal_BFS_Level_Order_Traversal_Approach.cpp)
+      - `empty()` | [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/02_Optimal_BFS_Level_Order_Traversal_Approach.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/00_Optimal_Only_Queue_Approach.cpp)
 
       - `size()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/02_Optimal_BFS_Level_Order_Traversal_Approach.cpp) 
 
-      - `push()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+      - `push()` | [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
 
-      - `pop()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+      - `pop()` | [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
 
-      - `front()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
+      - `front()` | [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) | [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/01_Most_Optimal_Queue_and_Hash_Map_Approach.cpp) 
 
   - `priority_queue<data_type>` 
 
@@ -516,7 +519,7 @@
     
     - The const gives surety that no static or non-static data members of class are manipulated by the operator() definition 
 
-    - **Custom Hash Functor** has to be defined in cases like, when `pair<int, int>` is a key of an `unordered_map`, Ex: `unordered_map<pair<int, int>, int, PairHash> mp;` 
+    - **Custom Hash Functor** has to be defined in cases like, when `pair<int, int>` is a key of an `unordered_map` or `unordered_set`, Ex: `unordered_map<pair<int, int>, int, PairHash> mp;` 
 
     - A class should always have **public, private and protected** modifiers as per need (By default everything is private)
 
@@ -531,12 +534,14 @@
     - **inline** keyword initializes a static variable in-place  
 
   - `move()` 
+
+    - Helps in data ownership transfer of a vector in O(1) 
   
     - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
 
     - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/00_Optimal_Approach.cpp) 
 
-    - Helps in data ownership transfer of a vector in O(1) 
+    - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/00_Optimal_Only_Queue_Approach.cpp) 
 
   - `nullptr` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
   
