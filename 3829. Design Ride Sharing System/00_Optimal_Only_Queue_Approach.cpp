@@ -45,7 +45,7 @@ public:
         return { -1, -1 };
     }
     
-    // T.C. = O(n); S.C. = O(1) 
+    // T.C. = O(n); S.C. = O(n) 
     void cancelRider(int riderId) {
         
         queue<int> updatedRiderQ;

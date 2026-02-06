@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/design-ride-sharing-system 
 
 
-// TAGS: [RATING: 1593], [MEDIUM], [OPTIMAL], [STL], [DESIGN], [QUEUE], [HASH TABLE], [LAZY DELETIONS] 
+// TAGS: [RATING: 1593], [MEDIUM], [MOST OPTIMAL], [STL], [DESIGN], [QUEUE], [HASH MAP], [LAZY DELETIONS] 
 
 
 #include<bits/stdc++.h>
@@ -31,10 +31,13 @@ public:
         driverQ.push(driverId);
     }
     
-    // T.C. = O(n); S.C. = O(1) 
+    // T.C. = Amortized O(1); S.C. = O(1) 
     vector<int> matchDriverWithRider() {
         
-        while (!riderQ.empty() && !riderWaiting.count(riderQ.front())) {
+        while (
+            !riderQ.empty() && 
+            !riderWaiting.count(riderQ.front())
+        ) {
             riderQ.pop();
         }
         
