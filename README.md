@@ -213,11 +213,13 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `PREFIX SUM` 
     
-      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/00_Optimal_Prefix_Sum_Approach.cpp) 
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/01_Optimal_Prefix_Sum_Approach.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/560.%20Subarray%20Sum%20Equals%20K/01_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
 
-    - `SUFFIX ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/00_Optimal_Prefix_Sum_Approach.cpp) 
+    - `SUFFIX SUM` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3833.%20Count%20Dominant%20Indices/00_Optimal_Approach.cpp) 
+
+    - `SUFFIX ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3788.%20Maximum%20Score%20of%20a%20Split/01_Optimal_Prefix_Sum_Approach.cpp) 
 
     - `STATIC VARIABLE` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3766.%20Minimum%20Operations%20to%20Make%20Binary%20Palindrome/01_Optimal_Precomputation_And_Binary_Search_Approach.cpp) 
 
@@ -295,9 +297,15 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `C++ STRING STREAM` | [Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes) | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) 
 
-    - `COUNTING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/00_Optimal_Approach.cpp) 
+    - `COUNTING` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3813.%20Vowel-Consonant%20Score/00_Optimal_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3833.%20Count%20Dominant%20Indices/00_Optimal_Approach.cpp) 
 
     - `MATH` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3783.%20Mirror%20Distance%20of%20an%20Integer/01_Most_Optimal_Approach.cpp) 
+
+    - `AVERAGE` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3833.%20Count%20Dominant%20Indices/00_Optimal_Approach.cpp) 
 
     - `GEOMETRY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1266.%20Minimum%20Time%20Visiting%20All%20Points/00_Optimal_Approach.cpp) 
 
