@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/merge-adjacent-equal-elements 
 
 
-// TAGS: [RATING: 1428], [MEDIUM], [NAIVE OPTIMAL], [STL], [ARRAY], [STACK], [INTUITION INVERSION] 
+// TAGS: [RATING: 1428], [MEDIUM], [NAIVE OPTIMAL], [STL], [ARRAY], [STACK], [REVERSING], [INTUITION INVERSION] 
 
 
 #include<bits/stdc++.h>
