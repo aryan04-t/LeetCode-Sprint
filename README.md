@@ -247,6 +247,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/01_Optimal_Simulation_Approach.cpp)
 
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/00_Naive_Simulation_Approach.cpp) 
+
     - `DESIGN` 
     
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
@@ -262,6 +264,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3750.%20Minimum%20Number%20of%20Flips%20to%20Reverse%20Binary%20String/00_Optimal.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/189.%20Rotate%20Array/03_Most_Optimal_Reversing_Approach.cpp) 
+      
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
 
     - `EVEN AND ODD` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3755.%20Find%20Maximum%20Balanced%20XOR%20Subarray%20Length/00_Naive.cpp)
 
@@ -286,6 +290,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/01_Optimal_Heap_Approach.cpp) 
+
+    - `STACK` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
 
     - `QUEUE` 
     
