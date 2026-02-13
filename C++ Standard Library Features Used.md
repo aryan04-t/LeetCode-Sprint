@@ -83,15 +83,15 @@
 
     - Member Functions:
 
-      - `empty()`
+      - `empty()` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/02_Optimal_Vector_Approach.cpp) 
 
-      - `size()`
+      - `size()` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/02_Optimal_Vector_Approach.cpp) 
 
-      - `back()` 
+      - `back()` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/02_Optimal_Vector_Approach.cpp) 
 
-      - `push_back()`
+      - `push_back()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/00_Naive_Simulation_Approach.cpp) 
 
-      - `pop_back()` 
+      - `pop_back()` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/02_Optimal_Vector_Approach.cpp) 
 
       - `insert()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/66.%20Plus%20One/01_Another_Optimal_Approach.cpp) 
 
@@ -118,6 +118,8 @@
           - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3759.%20Count%20Elements%20With%20at%20Least%20K%20Greater%20Values/01_Another_Optimal_Sorting_Approach.cpp) 
 
           - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/189.%20Rotate%20Array/03_Most_Optimal_Reversing_Approach.cpp) 
+
+          - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/00_Naive_Simulation_Approach.cpp) 
 
       - `reverse iterators`:
 
@@ -217,6 +219,20 @@
         - `rbegin() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
 
         - `rend() iterator` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3815.%20Design%20Auction%20System/02_Naive_Optimal_Ordered_Set_and_Hash_Map_and_Hash_Set_Approach.cpp) 
+  
+  - `stack<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
+
+    - Member Functions: 
+
+      - `empty()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
+
+      - `size()`  | [Example Code - EMPTY LINK](EMPTY_LINK) 
+
+      - `top()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
+
+      - `push()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
+
+      - `pop()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/01_Naive_Optimal_Stack_Approach.cpp) 
 
   - `queue<data_type>` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/02_Optimal_Sliding_Window_Queue_Approach.cpp) 
 
@@ -542,6 +558,8 @@
     - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/00_Optimal_Approach.cpp) 
 
     - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3829.%20Design%20Ride%20Sharing%20System/00_Optimal_Only_Queue_Approach.cpp) 
+
+    - [Example Code-4](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3834.%20Merge%20Adjacent%20Equal%20Elements/00_Naive_Simulation_Approach.cpp) 
 
   - `nullptr` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/00_Naive_Optimal_BFS_and_Hash_Map_Approach.cpp) 
   
