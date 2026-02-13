@@ -16,10 +16,8 @@ public:
         int n = nums.size();
         vector<long long> ans;
         
-        for (int i = 0; i < n; i++) {
+        for (long long curr : nums) {
             
-            long long curr = nums[i];
- 
             while (!ans.empty() && ans.back() == curr) {
                 ans.pop_back();
                 curr *= 2;
