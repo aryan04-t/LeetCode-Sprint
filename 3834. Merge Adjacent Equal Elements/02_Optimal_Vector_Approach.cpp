@@ -45,5 +45,4 @@ public:
 // T.C. = O(2n) = O(n) 
 // S.C. = O(1) -> Auxiliary Space Complexity 
 
-
-// Here this solution was needing a stack to build an answer, but above I have used vector to build the answer, because the answer has to be in vector at the end, and the vector can behave like stack so I used only vector, otherwise stack can also be used individually to build the answer and then you can put the final output from the stack into the vector - but skipped this approach 
+// vector can behave like stack, here we have took benefit of that 
