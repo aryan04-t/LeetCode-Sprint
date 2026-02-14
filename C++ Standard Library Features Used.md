@@ -51,7 +51,7 @@
 
       - `substr()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3760.%20Maximum%20Substrings%20With%20Distinct%20Start/02_Naive_Optimal_Simulation_Approach.cpp) 
 
-      - `push_back()`
+      - `push_back()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3838.%20Weighted%20Word%20Mapping/00_Optimal_Approach.cpp) 
 
       - `pop_back()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/00_Naive_Optimal.cpp) 
 
