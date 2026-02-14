@@ -87,7 +87,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       
       - `ROTATE ARRAY FROM LEFT` | [Example Code - EMPTY LINK](EMPTY_LINK) 
 
-    - `STRING` | [Example Code](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
+    - `STRING` 
+    
+      - [Example Code-1](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
+      
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3838.%20Weighted%20Word%20Mapping/01_Most_Optimal_Approach.cpp) 
 
     - `MAXIMIZING` 
       
@@ -134,6 +138,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/00_Optimal.cpp) 
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/189.%20Rotate%20Array/00_Naive_Approach.cpp) 
+
+      - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3838.%20Weighted%20Word%20Mapping/01_Most_Optimal_Approach.cpp) 
 
     - `EQUIVALENCE CLASSES` | [Example Code - EMPTY LINK](EMPTY_LINK) 
 
@@ -310,6 +316,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3833.%20Count%20Dominant%20Indices/00_Optimal_Approach.cpp) 
 
     - `MATH` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3783.%20Mirror%20Distance%20of%20an%20Integer/01_Most_Optimal_Approach.cpp) 
+
+    - `FORMULA BASED MAPPING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3838.%20Weighted%20Word%20Mapping/01_Most_Optimal_Approach.cpp) 
 
     - `AVERAGE` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3833.%20Count%20Dominant%20Indices/00_Optimal_Approach.cpp) 
 
