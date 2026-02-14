@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/weighted-word-mapping 
 
 
-// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [ARRAY], [STRING], [SUM], [MODULAR ARITHMETIC], [HASH MAP] 
+// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [ARRAY], [STRING], [SIMULATION], [MATH], [SUM], [MODULAR ARITHMETIC], [HASH MAP] 
 
 
 #include<bits/stdc++.h>
