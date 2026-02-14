@@ -12,8 +12,11 @@ using namespace std;
 class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
+        
+        int n = words.size();
 
         string ans = "";
+        ans.reserve(n);
 
         unordered_map<int, char> mp = {
             { 0, 'z' }, { 1, 'y' }, { 2, 'x' }, { 3, 'w' },
@@ -31,7 +34,7 @@ public:
                 weight += weights[ch - 'a'];
             }
             weight %= 26;
-            ans += mp[weight];
+            ans.push_back(mp[weight]);
         }
 
         return ans;
