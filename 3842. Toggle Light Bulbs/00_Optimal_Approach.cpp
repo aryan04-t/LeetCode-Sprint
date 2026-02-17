@@ -2,6 +2,9 @@
 // https://leetcode.com/problems/toggle-light-bulbs 
 
 
+// TAGS: [RATING: N/A], [EASY], [OPTIMAL], [ARRAY], [SIMULATION] 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,8 +21,8 @@ public:
 
         vector<int> ans;
         for (int i=1; i <= 100; i++) {
-            bool b = bulbsOn[i];
-            if (b) ans.push_back(i);
+            bool isBulbOn = bulbsOn[i];
+            if (isBulbOn) ans.push_back(i);
         }
 
         return ans;
@@ -29,6 +32,5 @@ public:
 
 // T.C. = O(n) 
 // S.C. = O(n) 
-
 
 // Here, n = 100 at max
