@@ -33,4 +33,4 @@ public:
 // T.C. = O(n) 
 // S.C. = O(n) 
 
-// Here, n = 100 at max
+// Here, n = 100 at max, and n = the length of vector<int> bulbs 
