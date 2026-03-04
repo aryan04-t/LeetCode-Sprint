@@ -81,6 +81,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/006_1672.%20Richest%20Customer%20Wealth/00_Optimal_Approach.cpp)
 
+    - `2D ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/00_Naive_Exponential_Approach.cpp) 
+
     - `ROTATE ARRAY` 
 
       - `ROTATE ARRAY FROM RIGHT` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/189.%20Rotate%20Array/00_Naive_Approach.cpp) 
@@ -205,7 +207,9 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `DFS` 
 
-      - `BINARY TREE DFS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/01_Naive_Optimal_DFS_and_Hash_Map_Approach.cpp) 
+      - `BINARY TREE DFS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/01_Naive_Optimal_DFS_and_Hash_Map_Approach.cpp)
+
+      - `MATRIX DFS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/00_Naive_Exponential_Approach.cpp) 
 
     - `BFS` 
     
@@ -357,7 +361,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/03_Most_Optimal_Sliding_Window_Two_Pointer_Approach.cpp) 
 
-    - `RECURSION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
+    - `RECURSION` 
+      
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/00_Naive_Recursive_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/00_Naive_Exponential_Approach.cpp) 
 
     - `CHARS TO STRING C++` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/01_Naive_Iterative_Approach.cpp)
 
@@ -368,8 +376,15 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     - `GP BASED TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
       - `Full Form:` Geometric Progression Based Time Complexity Analysis 
 
-    - `EXPONENTIAL RECURSION TC ANALYSIS` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
+    - `EXPONENTIAL RECURSION TC ANALYSIS` 
+      
       - `Full Form of TC:` Time Complexity 
+
+      - Formulas For: [Recursion Time and Space Complexity Analysis](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Recursion%20Time%20and%20Space%20Complexity%20Analysis.md) 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/00_Naive_Exponential_Approach.cpp) 
     
     - `MEMOIZATION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1390.%20Four%20Divisors/00_Naive_Approach.cpp)
 
