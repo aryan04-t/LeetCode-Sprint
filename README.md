@@ -193,7 +193,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - `BIT MASKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
 
-    - `XOR PROPERTIES` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/389.%20Find%20the%20Difference/02_Most_Optimal_Bit_Manipulation_Approach.cpp) 
+    - `BITWISE XOR PROPERTIES` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/389.%20Find%20the%20Difference/02_Most_Optimal_Bit_Manipulation_Approach.cpp) 
 
     - `TREE` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/006_1302.%20Deepest%20Leaves%20Sum/00_My_Optimal_DFS_Approach.cpp) 
 

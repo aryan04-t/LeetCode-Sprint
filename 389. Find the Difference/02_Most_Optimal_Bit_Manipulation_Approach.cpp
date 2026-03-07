@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/find-the-difference 
 
 
-// TAGS: [RATING: N/A], [EASY], [MOST OPTIMAL], [STRING], [BIT MANIPULATION], [XOR PROPERTIES] 
+// TAGS: [RATING: N/A], [EASY], [MOST OPTIMAL], [STRING], [BIT MANIPULATION], [BITWISE XOR PROPERTIES] 
 
 
 #include<bits/stdc++.h>
