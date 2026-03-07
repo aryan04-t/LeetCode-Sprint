@@ -153,6 +153,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-3](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3827.%20Count%20Monobit%20Integers/01_Most_Optimal_Approach.cpp) 
 
+      - [Example Code-4](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/01_Optimal_Approach.cpp) 
+
     - `DIVISION`
 
     - `DIVISIBILITY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1590.%20Make%20Sum%20Divisible%20by%20P/01_Naive_Optimal.cpp) 
@@ -191,9 +193,19 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
       - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3827.%20Count%20Monobit%20Integers/01_Most_Optimal_Approach.cpp) 
 
-    - `BIT MASKING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
+    - `BIT MASKING` 
+    
+      - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/1930.%20Unique%20Length-3%20Palindromic%20Subsequences/04_Another_Optimal_Approach_with_Bit_Manipulation.cpp) 
+
+      - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/01_Optimal_Approach.cpp) 
 
     - `BITWISE XOR PROPERTIES` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/389.%20Find%20the%20Difference/02_Most_Optimal_Bit_Manipulation_Approach.cpp) 
+
+    - `BITWISE OR PROPERTIES` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/01_Optimal_Approach.cpp) 
+
+    - `BITWISE AND PROPERTIES` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/01_Optimal_Approach.cpp) 
+    
+    - `BIT BY BIT GREEDY ANSWER CONSTRUCTION` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3858.%20Minimum%20Bitwise%20OR%20From%20Grid/01_Optimal_Approach.cpp) 
 
     - `TREE` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/10_Trees/006_1302.%20Deepest%20Leaves%20Sum/00_My_Optimal_DFS_Approach.cpp) 
 
