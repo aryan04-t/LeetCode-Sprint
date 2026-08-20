@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/shortest-unsorted-continuous-subarray 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL], [ARRAY], [SUBARRAY], [SORTING], [TWO POINTER] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL], [ARRAY], [SUBARRAY], [SORTING], [TWO POINTER], [MONOTONIC VIOLATION] 
 
 
 #include<bits/stdc++.h>
